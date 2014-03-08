@@ -8,7 +8,6 @@
 	"ignore": [
 		".jshintrc",
 		"**/*.txt",
-		"build",
 		"demos",
 		"tests",
 		"tools"
